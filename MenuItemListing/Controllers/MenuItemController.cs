@@ -13,7 +13,6 @@ namespace MenuItemListing.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class MenuItemController : ControllerBase
     {
 
